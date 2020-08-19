@@ -1,3 +1,11 @@
+# Recyle
+Recyclo is an application that both informs users based in NYC on recycling materials and locates centers to dispose them in New York City. 
+
+### Package Dependencies 
+- axios
+
+
+<br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
