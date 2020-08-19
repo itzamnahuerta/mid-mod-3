@@ -1,5 +1,5 @@
-# Recyle
-Recyclo is an application that both informs users based in NYC on recycling materials and locates centers to dispose them in New York City. 
+# RECYCLE TODAY
+RECYCLE TODAY is an application that both informs users based in NYC on recycling materials and locates centers to dispose them in New York City. 
 
 ### Package Dependencies 
 - axios
